@@ -1,6 +1,6 @@
 # indicadores
 
-## Table of Contents
+## Que es un indicador?
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
