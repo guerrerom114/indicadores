@@ -2,7 +2,7 @@
 
 ## Que es un indicador?
 1. [Como analizarlos?](#Como_analizarlos?)
-2. [Technologies](#technologies)
+2. [Tipos de indicadores](#tipos de indicadores)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
